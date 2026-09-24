@@ -1,4 +1,4 @@
-import json #chargement du module json 
+import json #chargement du module json ,instancié via le mot clé "import"
 import os # chargement du module systeme pour faire des verifications sur les fichiers de l'ordi
 
 STOCKAGE = "contacts.json"#Déclare une constante (en majuscules) contenant le nom du fichier où seront stockées tes données
